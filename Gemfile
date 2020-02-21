@@ -25,6 +25,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_bot_rails'
   gem 'bullet'
+  gem 'table_print'
 end
 
 group :development do
